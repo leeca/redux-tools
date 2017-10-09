@@ -1,0 +1,6 @@
+#! echo This file should be sourced into a bash shell
+. at-java8
+. at-maven
+. at-github
+cd Projects/Containers
+
